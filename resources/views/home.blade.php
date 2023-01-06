@@ -24,7 +24,7 @@
     <form  class="form" method="get" id="questform">
         <div class="form-group col-md-10">
             insert incomplete sentence
-            <input type="text" class="form-control text-center" name="question" placeholder="give me....">
+            <input type="text" class="form-control text-center" name="question" placeholder="why does elephant....">
             <div class="btn btn-primary my-3" id="btnAsk">ask</div>
         </div>
         <div class=" col-md-10">
