@@ -14,7 +14,7 @@
     <nav class="navbar fixed-top bg-dark">
         <div class="container-fluid">
         <a class="navbar-brand text-white" href="https://www.instagram.com/">@hafiyzaid</a>
-        <a class="navbar-brand text-white" href="https://www.instagram.com/">github</a>
+        <a class="navbar-brand text-white" href="https://github.com/hafiyzaid/openai-randomtext.git">github</a>
         </div>
     </nav>
 </div>
